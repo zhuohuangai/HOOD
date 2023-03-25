@@ -77,10 +77,10 @@ sh run_eval_cifar10.sh trained_model.pth
 
 ### Acknowledgement
 This repository depends a lot on [Pytorch-FixMatch](https://github.com/kekmodel/FixMatch-pytorch) for FixMatch implementation, and [CSI](https://github.com/alinlab/CSI) for anomaly detection evaluation, and [OpenMatch](https://github.com/VisionLearningGroup/OP_Match) for Open Classifier implementation. 
- Appreciate their contributions!
+ Appreciate their contributions.
 
 ### Reference
-If you find this code helpful, please consider cite our paper, thanks a lot!
+If you find this code helpful, please consider cite our paper, thanks.
 
 ```
 @inproceedings{huang2023harnessing,
