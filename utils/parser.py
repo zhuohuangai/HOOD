@@ -109,9 +109,9 @@ def set_parser():
                     help='epoch interval for different augmentation round')
     parser.add_argument('--adv_eps', default=0.03, type=float,
                     help='maximum value of adversarial perturbation')
-    parser.add_argument('--adv_magnitude', default=1e-5, type=float,
+    parser.add_argument('--adv_magnitude', default=5e-4, type=float,
                     help='magnitude of adversarial perturbation')
-    parser.add_argument('--adv_step', default=3, type=int,
+    parser.add_argument('--adv_step', default=10, type=int,
                     help='step of adversarial perturbation')
     parser.add_argument('--lambda_aug', default=0.4, type=float,
                     help='lambda for adversarial loss')
