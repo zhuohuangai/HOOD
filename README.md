@@ -80,13 +80,13 @@ This repository depends a lot on [Pytorch-FixMatch](https://github.com/kekmodel/
  Appreciate their contributions.
 
 ### Reference
-If you find this code helpful, please consider cite our paper, thanks.
+If you find this code helpful, please consider citing our paper, thanks.
 
 ```
 @inproceedings{huang2023harnessing,
   title={Harnessing Out-Of-Distribution Examples via Augmenting Content and Style},
   author={Zhuo Huang and Xiaobo Xia and Li Shen and Bo Han and Mingming Gong and Chen Gong and Tongliang Liu},
-  booktitle={The Eleventh International Conference on Learning Representations },
+  booktitle={The Eleventh International Conference on Learning Representations},
   year={2023},
   url={https://openreview.net/forum?id=boNyg20-JDm}
 }
