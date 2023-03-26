@@ -24,7 +24,7 @@ See [Pytorch-FixMatch](https://github.com/kekmodel/FixMatch-pytorch) for the det
 ### Dataset Preparation
 This repository needs CIFAR10, CIFAR100, or ImageNet-30 to train a model.
 
-To fully reproduce the results in evaluation, we also need SVHN, LSUN, ImageNet
+To conduct OOD detection, we also need SVHN, LSUN, ImageNet
 for CIFAR10, 100, and LSUN, DTD, CUB, Flowers, Caltech_256, Stanford Dogs for ImageNet-30.
 To prepare the datasets above, follow [CSI](https://github.com/alinlab/CSI).
 
