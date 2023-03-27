@@ -43,7 +43,7 @@ ln -s path_to_each_dataset ./data/.
 unzip files.zip
 ```
 
-All datasets are supposed to be under ./data.
+All datasets are supposed to be under `./data`.
 
 ### Train
 Train the model by 50 labeled data per class of CIFAR-10 dataset:
